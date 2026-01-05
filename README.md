@@ -38,19 +38,5 @@
 ## 🌌 My GitHub Stats
 
 <div align="center">
-</div>
-<br>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplisoni&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simplisoni/simplisoni/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simplisoni/simplisoni/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=simplisoni&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
