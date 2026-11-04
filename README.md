@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Karan Soni</h1>
+  <h3>tinkerer, always working on cool stuff</h3>
   <a href="https://simplisoni.github.io">
     <img src="https://img.shields.io/badge/Website-simplisoni.github.io-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
