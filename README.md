@@ -1,3 +1,4 @@
+<h1>Karan Soni<h1>
 <div align="center">
   <h3>tinkerer, always working on cool stuff</h3>
   <a href="https://simplisoni.github.io">
